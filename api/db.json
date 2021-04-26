@@ -1,0 +1,150 @@
+[
+    {
+        "firstName": "ddf",
+        "lastName": "df",
+        "gender": "df",
+        "birthday": "2021-04-28",
+        "email": "df@gmail.com",
+        "password": "df",
+        "about": "df"
+    },
+    {
+        "firstName": "wg",
+        "lastName": "wer",
+        "gender": "r",
+        "email": "ewr@wew.com",
+        "password": "wert",
+        "about": "ret"
+    },
+    {
+        "firstName": "wg",
+        "lastName": "wer",
+        "gender": "r",
+        "email": "ewr@wew.com",
+        "password": "wert",
+        "about": "ret"
+    },
+    {
+        "firstName": "rrr",
+        "lastName": "rrr",
+        "gender": "r",
+        "email": "hicoders.ch@gmail.com",
+        "password": "43",
+        "about": "34435435"
+    },
+    {
+        "firstName": "hamide",
+        "lastName": "rrrrr",
+        "gender": "f",
+        "birthday": "2001-01-01",
+        "email": "kk@gjjsj.com",
+        "password": "ldld",
+        "about": "löklekle"
+    },
+    {
+        "firstName": "hamide",
+        "lastName": "bay",
+        "gender": "female",
+        "birthday": "1979-05-05",
+        "email": "hamide.bay@gmail.com",
+        "password": "fds",
+        "about": "fs"
+    },
+    {
+        "firstName": "hamide",
+        "lastName": "bay",
+        "gender": "female",
+        "birthday": "1979-05-05",
+        "email": "hamide.bay@gmail.com",
+        "password": "fds",
+        "about": "fs"
+    },
+    {},
+    {},
+    {
+        "firstname": "Mehmet",
+        "lastName": "Dogan",
+        "gender": "f",
+        "email": "f@g.com",
+        "password": "ff",
+        "about": "f",
+        "birthday": "2000-01-01"
+    },
+    {
+        "firstName": "hamide",
+        "lastName": "bay",
+        "gender": "",
+        "birthday": "",
+        "email": "hicoders.ch@gmail.com",
+        "password": "fds",
+        "about": "test"
+    },
+    {
+        "firstName": "hamide",
+        "lastName": "bay",
+        "gender": "",
+        "birthday": "",
+        "email": "hicoders.ch@gmail.com",
+        "password": "fds",
+        "about": "test"
+    },
+    {
+        "firstName": "hamide",
+        "lastName": "bay",
+        "gender": "",
+        "birthday": "",
+        "email": "hicoders.ch@gmail.com",
+        "password": "fds",
+        "about": "test"
+    },
+    {
+        "firstName": "hamide",
+        "lastName": "bay",
+        "gender": "",
+        "birthday": "",
+        "email": "hicoders.ch@gmail.com",
+        "password": "fds",
+        "about": "test"
+    },
+    {
+        "firstName": "bora",
+        "lastName": "oluk",
+        "gender": "erkek",
+        "birthday": "2021-04-02",
+        "email": "boraoluk@gmail.com",
+        "password": "0000000",
+        "about": "hissstttt"
+    },
+    {
+        "firstName": "Mehmet",
+        "lastName": "Sökmen",
+        "gender": "Male",
+        "birthday": "1988-05-09",
+        "email": "sokmen4083@gmail.com",
+        "password": "40832712"
+    },
+    {
+        "name": "adidas",
+        "contact": "selimhalim12@gmail.com",
+        "detail": "asdasd"
+    },
+    {
+        "firstName": "oktay",
+        "lastName": "çopurlu",
+        "email": "selimhalim12@gmail.com",
+        "password": "aasdasd",
+        "gender": "b",
+        "birthday": "2021-03-30",
+        "about": "123123"
+    },
+    {
+        "firstName": "oktay",
+        "lastName": "çopurlu",
+        "email": "selimhalim12@gmail.com",
+        "password": "aasdasd",
+        "gender": "b",
+        "birthday": "2021-03-30",
+        "about": "123123"
+    },
+    {}
+]
