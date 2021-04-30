@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Form />
-      <List data-testıd="liste" />
+      <List data-testid="liste" />
     </div>
   );
 }
