@@ -12,5 +12,11 @@ export default function List() {
     document.title = `you clicked ${list.leght} times`;
   }, []);
   const personList = getPersonList(list);
-  return <table>{List.map((p) => <Person person={p} />}</table>;
+  return (
+    <table>
+      {List.map((p) => (
+        <Person person={p} />
+      ))}
+    </table>
+  );
 }
