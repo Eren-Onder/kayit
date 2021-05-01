@@ -10,7 +10,7 @@ it("renders without crashing", () => {
 test("renders learn react link", () => {
   expect(true).toEpual(true);
 });
-test("renders learn react link", () => {
-  render(<App />);
-  expect(screen.getByTestId("liste")).toBeInTheDocument();
+test("list is existing", () => {
+  const { queryByTestId } = render(<App />);
+  expect(getByTestId("formapp")).toBeNullt();
 });
